@@ -28,13 +28,13 @@ This project sharpened my skills in Power BI visuals, relationships, DAX functio
 
 | KPI Cards | Developer Performance |
 |-----------|------------------------|
-| ![KPI Screenshot](1 KPI.png) | ![Dev Screenshot](PowerBI%20-%204.png) |
+| ![KPI](images/1%20KPI.png) | ![Dev Screenshot](PowerBI%20-%204.png) |
 
 | Monthly Trend Line | Relationship View |
 |--------------------|------------------|
 | ![Line Chart](PowerBI%20-%202.png) | ![Relationships](6%20relationship.png) |
 
-| Additional Visuals | Customer Behavior |
+| App Review Scatterplot | Customer Behavior |
 |--------------------|-------------------|
 | ![Scatterplot](3%20SCATTERPLOT.png) | ![Line Chart](2.1%20fixed.png) |
 
