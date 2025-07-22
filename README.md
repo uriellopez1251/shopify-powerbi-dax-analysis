@@ -28,7 +28,7 @@ This project sharpened my skills in Power BI visuals, relationships, DAX functio
 
 | KPI Cards | Developer Performance |
 |-----------|------------------------|
-| ![KPI Screenshot](PowerBI%20-%201.png) | ![Dev Screenshot](PowerBI%20-%204.png) |
+| ![KPI Screenshot](1 KPI.png) | ![Dev Screenshot](PowerBI%20-%204.png) |
 
 | Monthly Trend Line | Relationship View |
 |--------------------|------------------|
