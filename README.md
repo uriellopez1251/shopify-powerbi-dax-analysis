@@ -1,57 +1,57 @@
-# 📊 Shopify Performance Analysis (Power BI)
+# Shopify Sales Analysis – Power BI & DAX (Project 6)
 
-## 🚀 Project Overview
-In this project, I explored e-commerce performance metrics using a Shopify dataset and Power BI. The focus was on tracking KPIs, identifying trends, and using DAX to gain actionable insights into developer performance, product revenue, and user satisfaction across time.
+## 📊 Project Overview
 
-This project sharpened my skills in Power BI visuals, relationships, DAX functions, and real-world storytelling for business intelligence.
+This project focuses on analyzing Shopify sales and product data using **Power BI** and **DAX**. The goal was to extract actionable insights, build dynamic dashboards, and answer key business questions to support data-driven decisions for an e-commerce platform.
+
+## 🎯 Objectives
+
+- Connect and transform raw Shopify data in Power BI
+- Define relationships between tables
+- Create interactive visualizations for KPIs, trends, and developer performance
+- Practice DAX to build calculated columns and measures
+- Answer specific business questions through report pages
+
+## 🧰 Tools Used
+
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **Data modeling & relationships**
+- **Data visualization**
+
+## 📁 Files Included
+
+- `shopify.xlsx` *(optional, not included in repo due to file size limits)*
+- Power BI screenshots demonstrating:
+  - KPI cards
+  - Line charts
+  - Scatter plots
+  - Developer performance visual
+  - Table relationships
+  - Sales breakdown by category and developer
+- Screenshots named accordingly, located in the `/screenshots/` folder
+
+## ✅ Business Questions Answered
+
+1. **Which developer performed the best?**
+2. **Which product categories sold the most over time?**
+3. **What’s the relationship between return rates and total profit?**
+4. **How did total sales change monthly, and what were the top-performing months?**
+5. **What insights can we gain from our sales by region and developer type?**
+
+## 🧠 Skills Demonstrated
+
+- Data cleansing and transformation in Power BI
+- Creating calculated columns and measures using DAX
+- Building complex relationships and using filters
+- Designing clear, actionable dashboards
+- Explaining insights with supporting visuals
 
 ---
 
-## 🧰 Tools & Skills Used
-- **Power BI** – KPI cards, DAX, line charts, scatterplots, slicers, relationships  
-- **DAX** – Custom measures and calculated columns  
-- **Data Modeling** – Table relationships and data cleaning  
-- **Data Storytelling** – Business questions → visual answers
+📂 *Note: Visuals are available in the repository under the screenshots folder and are referenced in the screenshots with consistent naming.*
 
----
 
-## 📌 Business Questions Answered
-1. **KPI Tracking** – What are the key performance indicators of developer success?
-2. **Trend Analysis** – How have ratings or revenue changed over time?
-3. **Performance Insights** – Are top-performing developers and products consistent?
-4. **Customer Behavior** – What does the rating and return behavior say about satisfaction?
-5. **Revenue Trends** – Which months had peak profitability?
-
----
-
-## 🖼️ Project Screenshots
-
-| KPI Cards | Developer Performance |
-|-----------|------------------------|
-| ![KPI](images/1_KPI.png) | ![Dev Screenshot](images/4_developer.png) |
-
-| Monthly Trend Line | Relationship View |
-|--------------------|------------------|
-| ![Line Chart](images/2_LINECHART.png) | ![Relationships](6%20relationship.png) |
-
-| App Review Scatterplot | Customer Behavior |
-|--------------------|-------------------|
-| ![Scatterplot](images/3SCATTERPLOT.png) | ![Line Chart](2.1%20fixed.png) |
-
-_(More visuals included in repository for full dashboard walkthrough.)_
-
----
-
-## 💼 Business Impact
-This project demonstrates:
-- Real-world dashboard design
-- Data model structuring in Power BI
-- Using DAX to generate meaningful, dynamic insights
-- Ability to translate raw data into actionable business recommendations
-
----
-
-## 🔑 Keywords
-Power BI • DAX • KPIs • Shopify Analytics • Data Visualization • E-Commerce • Business Intelligence • Dashboard • Data Modeling • TripleTen
 
 
