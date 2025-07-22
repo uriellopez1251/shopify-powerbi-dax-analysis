@@ -36,7 +36,7 @@ This project sharpened my skills in Power BI visuals, relationships, DAX functio
 
 | App Review Scatterplot | Customer Behavior |
 |--------------------|-------------------|
-| ![Scatterplot](3%20SCATTERPLOT.png) | ![Line Chart](2.1%20fixed.png) |
+| ![Scatterplot](images/3SCATTERPLOT.png) | ![Line Chart](2.1%20fixed.png) |
 
 _(More visuals included in repository for full dashboard walkthrough.)_
 
